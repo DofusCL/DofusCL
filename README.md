@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on School Proyects or Something
-- 📫 How to reach me instagram @nicobosonis
+- 📫 How to reach me instagram @nicobosoni.s
 
 <!---
 DofusCL/DofusCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
